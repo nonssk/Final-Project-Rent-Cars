@@ -1,0 +1,11 @@
+{
+    "AppName":"ระบบจองรถขนของ",
+    "version":"4.0.1",
+    "program_id":160,
+    "sw_branch":"white",
+    "Themecolor":"gray",
+    "Textcolor":"#1a1a1a",
+    "NevtxtColor":"white",
+    "Btncolor":"white",
+    "NevbarColor":"#212529"
+   }
